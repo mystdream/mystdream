@@ -4,18 +4,13 @@
     
 <!--Socials-->
 
-<a href="https://kaggle.com/abhaysharma38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhaysharma38" height="30" width="40" /></a>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhaysharma38/) 
 
 <a href="http://www.linkedin.com/in/abhaysharma38">
     <img height="70" src="/assets/socials/linkedin.png" />
 </a>
-
-
 <!--Socials End-->
 
-<
 <!--Snake Contribution Graph-->    
     
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](/contributiongrid.svg)
