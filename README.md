@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhaysharma38/) 
 
 <a href="http://www.linkedin.com/in/abhaysharma38">
-    <img height="70" src="/assets/socials/linkedin.png" />
+    
 </a>
 <!--Socials End-->
 
