@@ -5,10 +5,9 @@
 <!--Socials-->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhaysharma38/) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?logo=kaggle&logoColor=white)](https://www.kaggle.com/abhaysharma38) 
+[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/fda08af0-73d6-46fc-a5c2-dbc31cea2e82) 
 
-<a href="http://www.linkedin.com/in/abhaysharma38">
-    
-</a>
 <!--Socials End-->
 
 <!--Snake Contribution Graph-->    
