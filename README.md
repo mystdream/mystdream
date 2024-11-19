@@ -1,4 +1,4 @@
-# Hi, I'm Abhay 👋🏾 👩🏾‍💻
+# Hi, I'm Abhay!!
 
 <div align="center">
     
