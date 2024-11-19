@@ -24,7 +24,7 @@
 
 <h1> About </h1> 
  <p> 
-    I'm currently studying Data Science & AI for my master's degree. I love diving into new developments in AI and experimenting with different ideas. Excited to learn and collaborate with others in the AI community!
+    I'm a fresher looking for ooportunities in Data Science. I have done MSc in Data Science & AI. I love diving into new developments in AI and experimenting with different ideas. Excited to learn and collaborate with others in the AI community!
 
 <!--About Ends-->
     
